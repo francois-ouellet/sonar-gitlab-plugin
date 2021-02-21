@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/francois-ouellet/sonar-gitlab-plugin/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/francois-ouellet/sonar-gitlab-plugin)
+
 Sonar GitLab Plugin
 ===================
 
